@@ -1,4 +1,4 @@
-#Hangman
+# Hangman
 
 This is a basic Python implementation of the game of Hangman.
 
